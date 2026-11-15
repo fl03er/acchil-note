@@ -1,0 +1,16 @@
+# Gradle / Android
+.gradle/
+.kotlin/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+.cxx/
+
+# 서명 키는 저장소에 넣지 않는다
+*.jks
+*.keystore
+keystore.properties
+
+.DS_Store
